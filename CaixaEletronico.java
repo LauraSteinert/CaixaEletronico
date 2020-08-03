@@ -1,12 +1,3 @@
-/******************************************************************/
-/**  ACH2001 - Introdução à Programação                          **/
-/** EACH-USP - Primeiro Semestre de 2020                         **/
-/** Matutino - Luciano Digiampietri                              **/
-/**                                                              **/
-/** Laura Steinert de Freitas          10725244                  **/
-/**                                                              **/
-/** Data de entrega: 15/04                                       **/
-/******************************************************************/
 
 /* 
 	Programa que simula um caixa eletrônico das Ilhas Weblands, 
